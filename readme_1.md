@@ -1,0 +1,1 @@
+Kegunaan JSON pada REST API adalah sebgai format untuk membagikan data yang universal, karena data dengan format JSON dapat diterjemahkan ke seluruh bahasa pemrograman dan mudah juga untuk dipahami oleh manusia serta mesin. 
